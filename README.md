@@ -32,9 +32,7 @@ This project is a basic calculator that can perform simple arithmetic operations
 To use the calculator on your computer:
 
 1. **Download and extract the zip file:**
-
-
-
+ https://github.com/Vishwajasiri/calculator/blob/main/calculator-zip.zip
 2. **Go to the extracted folder.**
 
 3. **Open `index.html` in your web browser.**
